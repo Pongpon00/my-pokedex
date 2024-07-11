@@ -1,7 +1,11 @@
 # MyPokedex
 To run it. Clone my project and run:
-```cd my-pokedex```
-```npm i```
+```cmd
+cd my-pokedex
+```  
+```cmd
+npm i
+```  
 
 # React + TypeScript + Vite
 
