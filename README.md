@@ -1,11 +1,18 @@
 # MyPokedex
-To run it. Clone my project and run:
+
+# Getting Started
+First, clone this repository and run the following commands:
 ```
 cd my-pokedex
 ```  
 ```
 npm i
-```  
+```
+```
+npm run dev
+```
+Then go to
+[https://localhost:5173]
 
 # React + TypeScript + Vite
 
