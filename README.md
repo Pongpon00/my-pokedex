@@ -1,4 +1,5 @@
 # MyPokedex
+This project is the Pokedex website that will contain each Pokemon data. This project is about practicing my development skills in API fetching.
 
 # Getting Started
 First, clone this repository and run the following commands:
