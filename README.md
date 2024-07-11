@@ -1,3 +1,8 @@
+# MyPokedex
+To run it. Clone my project and run:
+```cd my-pokedex```
+```npm i```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
