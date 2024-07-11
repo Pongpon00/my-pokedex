@@ -1,9 +1,9 @@
 # MyPokedex
 To run it. Clone my project and run:
-```cmd
+```
 cd my-pokedex
 ```  
-```cmd
+```
 npm i
 ```  
 
