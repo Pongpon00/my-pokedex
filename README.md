@@ -12,7 +12,7 @@ npm i
 npm run dev
 ```
 Then go to
-[https://localhost:5173]
+[https://localhost:5173](https://localhost:5173)
 
 # React + TypeScript + Vite
 
