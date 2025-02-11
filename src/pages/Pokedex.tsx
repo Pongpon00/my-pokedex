@@ -4,7 +4,7 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import LoadingCard from "../components/LoadingCard";
-import PokePopup from "../components/PokePopup";
+// import PokePopup from "../components/PokePopup";
 
 type PokemonType = {
   type: {
