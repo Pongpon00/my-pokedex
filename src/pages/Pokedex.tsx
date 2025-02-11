@@ -28,7 +28,7 @@ type Pokemon = {
 function Pokedex() {
   const [pokedex, setPokedex] = useState<Pokemon[] | null>(null);
   const [loading, setLoading] = useState(false);
-  const [error, setError] = useState("");
+  // const [error, setError] = useState(""); 
 
   const fetchAmount = 10;
   const [count, setCount] = useState(fetchAmount);
@@ -58,12 +58,12 @@ function Pokedex() {
           })
         );
         setPokedex(pokemonArray);
-        setError("");
+        // setError("");
       } catch (error: any) {
         if (axios.isCancel(error)) {
           console.log("Request canceled:", error.message);
         } else {
-          setError("Something went wrong!");
+          // setError("Something went wrong!");
           console.error(error);
         }
       } finally {
