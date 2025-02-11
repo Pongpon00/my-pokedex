@@ -10,7 +10,7 @@ function NavbarOutlet() {
   return (
     <div className="">
       <Navbar />
-      <div className=" mt-14">
+      <div className="">
         <PageBackground />
       </div>
     </div>

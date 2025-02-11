@@ -79,7 +79,7 @@ function Pokedex() {
   }, [count]);
 
   return (
-    <div className="flex flex-wrap flex-col w-full h-full items-center">
+    <div className="flex flex-wrap flex-col w-full h-full items-center pt-12">
       <p className="text-5xl pt-12 font-bold">Pokedex</p>
       <motion.div className="flex flex-wrap gap-8 justify-center p-12">
         {pokedex &&
